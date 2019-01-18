@@ -1,0 +1,24 @@
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\bin\Debug\CanSatSerial.exe.config
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\bin\Debug\CanSatSerial.exe
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\bin\Debug\CanSatSerial.pdb
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\obj\Debug\CanSatSerial.csprojAssemblyReference.cache
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\obj\Debug\CanSatSerial.Properties.Resources.resources
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\obj\Debug\CanSatSerial.csproj.GenerateResource.cache
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\obj\Debug\CanSatSerial.csproj.CoreCompileInputs.cache
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\obj\Debug\CanSatSerial.exe
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\obj\Debug\CanSatSerial.pdb
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\obj\Debug\CanSatSerial.MainForm.resources
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\bin\Debug\CanSatSerial.exe.config
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\bin\Debug\CanSatSerial.exe
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\bin\Debug\CanSatSerial.pdb
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\obj\Debug\CanSatSerial.csprojAssemblyReference.cache
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\obj\Debug\CanSatSerial.ChartForm.resources
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\obj\Debug\CanSatSerial.MainForm.resources
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\obj\Debug\CanSatSerial.Properties.Resources.resources
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\obj\Debug\CanSatSerial.csproj.GenerateResource.cache
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\obj\Debug\CanSatSerial.csproj.CoreCompileInputs.cache
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\obj\Debug\CanSatSerial.exe
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\obj\Debug\CanSatSerial.pdb
+C:\Users\Dubos\Documents\CanSatSerial — копия\CanSatSerial\obj\Debug\CanSatSerial.Monitor.resources
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\obj\Debug\CanSatSerial.ChartForm.resources
+C:\Users\Dubos\Documents\CanSatSerial\CanSatSerial\obj\Debug\CanSatSerial.Monitor.resources
